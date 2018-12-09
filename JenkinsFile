@@ -3,6 +3,7 @@ pipeline {
   stages {
     stage('myStage'){
       steps {
+		sh 'ls'
 		echo 'Builing'
 		sh 'cd study_jenkins'
         sh 'dotnet restore'
