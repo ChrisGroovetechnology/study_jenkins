@@ -4,6 +4,7 @@ pipeline {
     stage('myStage'){
       steps {
 		echo 'Builing'
+		sh 'cd study_jenkins'
         sh 'dotnet restore'
 		sh 'dotnet build'
       }
