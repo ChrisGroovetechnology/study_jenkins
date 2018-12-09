@@ -1,0 +1,17 @@
+C:\Users\daocuong\source\repos\study_jenkins\study_jenkins.Test\obj\Debug\netcoreapp2.0\study_jenkins.Test.csprojAssemblyReference.cache
+C:\Users\daocuong\source\repos\study_jenkins\study_jenkins.Test\obj\Debug\netcoreapp2.0\study_jenkins.Test.csproj.CoreCompileInputs.cache
+C:\Users\daocuong\source\repos\study_jenkins\study_jenkins.Test\obj\Debug\netcoreapp2.0\study_jenkins.Test.AssemblyInfoInputs.cache
+C:\Users\daocuong\source\repos\study_jenkins\study_jenkins.Test\obj\Debug\netcoreapp2.0\study_jenkins.Test.AssemblyInfo.cs
+C:\Users\daocuong\source\repos\study_jenkins\study_jenkins.Test\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\daocuong\source\repos\study_jenkins\study_jenkins.Test\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\daocuong\source\repos\study_jenkins\study_jenkins.Test\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\daocuong\source\repos\study_jenkins\study_jenkins.Test\bin\Debug\netcoreapp2.0\study_jenkins.Test.deps.json
+C:\Users\daocuong\source\repos\study_jenkins\study_jenkins.Test\bin\Debug\netcoreapp2.0\study_jenkins.Test.runtimeconfig.json
+C:\Users\daocuong\source\repos\study_jenkins\study_jenkins.Test\bin\Debug\netcoreapp2.0\study_jenkins.Test.runtimeconfig.dev.json
+C:\Users\daocuong\source\repos\study_jenkins\study_jenkins.Test\bin\Debug\netcoreapp2.0\study_jenkins.Test.dll
+C:\Users\daocuong\source\repos\study_jenkins\study_jenkins.Test\bin\Debug\netcoreapp2.0\study_jenkins.Test.pdb
+C:\Users\daocuong\source\repos\study_jenkins\study_jenkins.Test\bin\Debug\netcoreapp2.0\study_jenkins.dll
+C:\Users\daocuong\source\repos\study_jenkins\study_jenkins.Test\bin\Debug\netcoreapp2.0\study_jenkins.pdb
+C:\Users\daocuong\source\repos\study_jenkins\study_jenkins.Test\obj\Debug\netcoreapp2.0\study_jenkins.Test.csproj.CopyComplete
+C:\Users\daocuong\source\repos\study_jenkins\study_jenkins.Test\obj\Debug\netcoreapp2.0\study_jenkins.Test.dll
+C:\Users\daocuong\source\repos\study_jenkins\study_jenkins.Test\obj\Debug\netcoreapp2.0\study_jenkins.Test.pdb
