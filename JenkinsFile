@@ -1,0 +1,12 @@
+pipeline {
+  agent any
+  stages {
+    stage('myStage'){
+      steps {
+		echo 'Builing'
+        sh 'dotnet restore'
+		sh 'dotnet build'
+      }
+    }
+  }
+}
