@@ -3,7 +3,7 @@ pipeline {
   stages {
     stage('myStage'){
       steps {
-		sh 'ls'
+        git credentialsId: '130a7441-80d1-4afe-a1ec-b78eff09f5bf', url: 'https://github.com/ChrisGroovetechnology/study_jenkins.git/', branch: 'master'
 		echo 'Builing'
 		sh 'cd study_jenkins'
         sh 'dotnet restore'
