@@ -12,7 +12,6 @@ namespace study_jenkins.Controllers
     {
         public IActionResult Index()
         {
-            int x = 0;
             return View();
         }
 
