@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestRun id="52ee8800-f7c4-4533-8b47-b60222cbeed7" name="cuonglam@DESKTOP0085 2018-12-26 15:39:04" runUser="GROOVETECH\cuonglam" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Times creation="2018-12-26T15:39:04.1116922+07:00" queuing="2018-12-26T15:39:04.1116922+07:00" start="2018-12-26T15:39:01.6367114+07:00" finish="2018-12-26T15:39:04.1281992+07:00" />
+  <TestSettings name="default" id="0aa68ec4-4c55-4c25-be2f-1d84515881fa">
+    <Deployment runDeploymentRoot="cuonglam_DESKTOP0085_2018-12-26_15_39_04" />
+  </TestSettings>
+  <Results>
+    <UnitTestResult executionId="2cf371c4-c878-44c5-b383-5105b4f01a83" testId="59c3e2cc-8bd2-0d49-5315-03348a3a00ef" testName="study_jenkins.Test.SimpleMathTest.AddTest" computerName="DESKTOP0085" duration="00:00:00.0050000" startTime="2018-12-26T15:39:03.9927458+07:00" endTime="2018-12-26T15:39:03.9927470+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2cf371c4-c878-44c5-b383-5105b4f01a83">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.True() Failure&#xD;
+Expected: True&#xD;
+Actual:   False</Message>
+          <StackTrace>   at study_jenkins.Test.SimpleMathTest.AddTest() in C:\Users\cuonglam\Desktop\study_jenkins\study_jenkins.Test\SimpleMathTest.cs:line 12</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="dbb5cf35-bd48-4c06-82de-ec56e99d2acb" testId="9955dfc2-41da-fdda-a4c2-d07f14ed599e" testName="study_jenkins.Test.SimpleMathTest.RemainderTest" computerName="DESKTOP0085" duration="00:00:00.0010000" startTime="2018-12-26T15:39:03.9929426+07:00" endTime="2018-12-26T15:39:03.9929429+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="dbb5cf35-bd48-4c06-82de-ec56e99d2acb" />
+    <UnitTestResult executionId="06a10268-0725-48dd-aeeb-940606e16bf5" testId="c18b5bd1-47a7-d663-64bd-0e21b3bd1b4a" testName="study_jenkins.Test.SimpleMathTest.SubtractTest" computerName="DESKTOP0085" duration="00:00:00.0010000" startTime="2018-12-26T15:39:03.9435372+07:00" endTime="2018-12-26T15:39:03.9435381+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="06a10268-0725-48dd-aeeb-940606e16bf5" />
+    <UnitTestResult executionId="dcdc26e4-fcba-4b29-956c-36f5bb636907" testId="3989e6b2-39bf-f2e9-eb50-b57b5aa1c401" testName="study_jenkins.Test.SimpleMathTest.DivideTest" computerName="DESKTOP0085" duration="00:00:00.0100000" startTime="2018-12-26T15:39:03.9343219+07:00" endTime="2018-12-26T15:39:03.9359744+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="dcdc26e4-fcba-4b29-956c-36f5bb636907" />
+    <UnitTestResult executionId="aa354c47-a6c0-49ab-8990-03279ae000f5" testId="7fb6982e-952d-4e76-107d-16d19f3d9395" testName="study_jenkins.Test.SimpleMathTest.MultiplyTest" computerName="DESKTOP0085" duration="00:00:00.0010000" startTime="2018-12-26T15:39:03.9929095+07:00" endTime="2018-12-26T15:39:03.9929098+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="aa354c47-a6c0-49ab-8990-03279ae000f5" />
+  </Results>
+  <TestDefinitions>
+    <UnitTest name="study_jenkins.Test.SimpleMathTest.RemainderTest" storage="c:\users\cuonglam\desktop\study_jenkins\study_jenkins.test\bin\debug\netcoreapp2.0\study_jenkins.test.dll" id="9955dfc2-41da-fdda-a4c2-d07f14ed599e">
+      <Execution id="dbb5cf35-bd48-4c06-82de-ec56e99d2acb" />
+      <TestMethod codeBase="C:\Users\cuonglam\Desktop\study_jenkins\study_jenkins.Test\bin\Debug\netcoreapp2.0\study_jenkins.Test.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="study_jenkins.Test" name="study_jenkins.Test.SimpleMathTest.RemainderTest" />
+    </UnitTest>
+    <UnitTest name="study_jenkins.Test.SimpleMathTest.AddTest" storage="c:\users\cuonglam\desktop\study_jenkins\study_jenkins.test\bin\debug\netcoreapp2.0\study_jenkins.test.dll" id="59c3e2cc-8bd2-0d49-5315-03348a3a00ef">
+      <Execution id="2cf371c4-c878-44c5-b383-5105b4f01a83" />
+      <TestMethod codeBase="C:\Users\cuonglam\Desktop\study_jenkins\study_jenkins.Test\bin\Debug\netcoreapp2.0\study_jenkins.Test.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="study_jenkins.Test" name="study_jenkins.Test.SimpleMathTest.AddTest" />
+    </UnitTest>
+    <UnitTest name="study_jenkins.Test.SimpleMathTest.MultiplyTest" storage="c:\users\cuonglam\desktop\study_jenkins\study_jenkins.test\bin\debug\netcoreapp2.0\study_jenkins.test.dll" id="7fb6982e-952d-4e76-107d-16d19f3d9395">
+      <Execution id="aa354c47-a6c0-49ab-8990-03279ae000f5" />
+      <TestMethod codeBase="C:\Users\cuonglam\Desktop\study_jenkins\study_jenkins.Test\bin\Debug\netcoreapp2.0\study_jenkins.Test.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="study_jenkins.Test" name="study_jenkins.Test.SimpleMathTest.MultiplyTest" />
+    </UnitTest>
+    <UnitTest name="study_jenkins.Test.SimpleMathTest.DivideTest" storage="c:\users\cuonglam\desktop\study_jenkins\study_jenkins.test\bin\debug\netcoreapp2.0\study_jenkins.test.dll" id="3989e6b2-39bf-f2e9-eb50-b57b5aa1c401">
+      <Execution id="dcdc26e4-fcba-4b29-956c-36f5bb636907" />
+      <TestMethod codeBase="C:\Users\cuonglam\Desktop\study_jenkins\study_jenkins.Test\bin\Debug\netcoreapp2.0\study_jenkins.Test.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="study_jenkins.Test" name="study_jenkins.Test.SimpleMathTest.DivideTest" />
+    </UnitTest>
+    <UnitTest name="study_jenkins.Test.SimpleMathTest.SubtractTest" storage="c:\users\cuonglam\desktop\study_jenkins\study_jenkins.test\bin\debug\netcoreapp2.0\study_jenkins.test.dll" id="c18b5bd1-47a7-d663-64bd-0e21b3bd1b4a">
+      <Execution id="06a10268-0725-48dd-aeeb-940606e16bf5" />
+      <TestMethod codeBase="C:\Users\cuonglam\Desktop\study_jenkins\study_jenkins.Test\bin\Debug\netcoreapp2.0\study_jenkins.Test.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="study_jenkins.Test" name="study_jenkins.Test.SimpleMathTest.SubtractTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestEntries>
+    <TestEntry testId="59c3e2cc-8bd2-0d49-5315-03348a3a00ef" executionId="2cf371c4-c878-44c5-b383-5105b4f01a83" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="9955dfc2-41da-fdda-a4c2-d07f14ed599e" executionId="dbb5cf35-bd48-4c06-82de-ec56e99d2acb" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c18b5bd1-47a7-d663-64bd-0e21b3bd1b4a" executionId="06a10268-0725-48dd-aeeb-940606e16bf5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="3989e6b2-39bf-f2e9-eb50-b57b5aa1c401" executionId="dcdc26e4-fcba-4b29-956c-36f5bb636907" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="7fb6982e-952d-4e76-107d-16d19f3d9395" executionId="aa354c47-a6c0-49ab-8990-03279ae000f5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <ResultSummary outcome="Failed">
+    <Counters total="5" executed="5" passed="4" failed="1" error="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+    <Output>
+      <StdOut>[xUnit.net 00:00:01.6498761]   Discovering: study_jenkins.Test[xUnit.net 00:00:01.7105391]   Discovered:  study_jenkins.Test[xUnit.net 00:00:01.7159743]   Starting:    study_jenkins.Test[xUnit.net 00:00:01.8992300]       Assert.True() Failure[xUnit.net 00:00:01.8993691]       Expected: True[xUnit.net 00:00:01.8994556]       Actual:   False[xUnit.net 00:00:01.9005881]       Stack Trace:[xUnit.net 00:00:01.9020463]         C:\Users\cuonglam\Desktop\study_jenkins\study_jenkins.Test\SimpleMathTest.cs(12,0): at study_jenkins.Test.SimpleMathTest.AddTest()[xUnit.net 00:00:01.9059022]   Finished:    study_jenkins.Test</StdOut>
+    </Output>
+    <RunInfos>
+      <RunInfo computerName="DESKTOP0085" outcome="Error" timestamp="2018-12-26T15:39:03.9881218+07:00">
+        <Text>[xUnit.net 00:00:01.8980347]     study_jenkins.Test.SimpleMathTest.AddTest [FAIL]</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+</TestRun>

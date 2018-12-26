@@ -9,7 +9,7 @@ namespace study_jenkins.Test
         public void AddTest()
         {
             var res = Models.SimpleMath.Add(1, 2);
-            Assert.True(4 == res);
+            Assert.True(3 == res);
         }
 
         [Fact]

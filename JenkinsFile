@@ -8,6 +8,8 @@ pipeline {
 		sh 'cd study_jenkins'
         sh 'dotnet restore'
 		sh 'dotnet test --results-directory ./ --logger "trx;LogFileName=test_results.xml"'
+		sh 'dotnet test dotnet test /p:CollectCoverage=true /p:CoverletOutputFormat=opencover'
+		sh 'reportgenerator "-reports:study_jenkins.Test/test_results.xml" "-targetdir:coveragereport"'
 		sh 'dotnet build'
       }
     }
